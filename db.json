@@ -35,7 +35,7 @@
 ],
 "drivers": [
  {"id": 1, "name": "Seb", "vehicle": "voiture", "email": "seb@hotmail.fr", "tel": "0606060606", "journeys":[1, 2],
-{"id": 2, "name": "Jean-Heude", "vehicle": "voiture", "email": "Jean-heude@hotmail.fr", "tel": "0606060606", "journeys":[ ]}
+{"id": 2, "name": "Jean-Heude", "vehicle": "voiture", "email": "Jean-heude@hotmail.fr", "tel": "0606060606", "journeys":null}
 ]
 
 }
