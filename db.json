@@ -1,5 +1,5 @@
 {
-{
+
   demands:[
     { "id": 1, "name": "jess", "email": "jess@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 1 },
     { "id": 2, "name": "ben", "email": "ben@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "03/08/2023", "status": 1 },
@@ -8,7 +8,20 @@
     { "id": 5, "name": "monique", "email": "monique@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 4 },
     { "id": 6, "name": "totoche", "email": "totoche@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 3 }
 ]
-}
+events:[{
+    "id": 1,
+    "name": "Insane Festival 2023", "image": "insane.jpg",
+    "date": "10 - 11 - 12 - 13 Août 2023",
+    "place": "plan d'eau d'Apt"
+}, {
+    "id": 2, "name": "HellFest 2023", "image": "hellfest.jpg",
+    "date": "10 - 11 - 12 - 13 Août 2023",
+    "place": "plan d'eau d'Apt"
+}, {
+    "id": 2, "name": "HellFest 2023", "image": "hellfest.jpg",
+    "date": "10 - 11 - 12 - 13 Août 2023",
+    "place": "plan d'eau d'Apt"
+}]
 
 
   
