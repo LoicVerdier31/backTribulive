@@ -1,0 +1,15 @@
+{
+{
+  demands:[
+    { "id": 1, "name": "jess", "email": "jess@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 1 },
+    { "id": 2, "name": "ben", "email": "ben@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "03/08/2023", "status": 1 },
+    { "id": 3, "name": "arthur", "email": "arthur@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "05/08/2023", "status": 2 },
+    { "id": 4, "name": "jean-claude", "email": "jean-claude@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 1 },
+    { "id": 5, "name": "monique", "email": "monique@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 4 },
+    { "id": 6, "name": "totoche", "email": "totoche@hotmail.fr", "tel": "0606060606", "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.", "date": "04/08/2023", "status": 3 }
+]
+}
+
+
+  
+}
