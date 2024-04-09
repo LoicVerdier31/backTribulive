@@ -22,16 +22,16 @@
         "event": 1,
         "driver": 1,
         "route": "aller",
-        "link": "https://tribulive.mobi/fr/prive/journey/seb",
-        "go":{"avaibleSits": 3,"totalSits": 3, "date": "11/08/2024","hour": "12:00","visible": false},
+        "link": "https://tribulive.mobi/fr/prive/journey/seb/01",
+        "go":{"startAdress":"rue des amidonniers 31000 Toulouse" "avaibleSits": 3,"totalSits": 3, "date": "11/08/2024","hour": "12:00","visible": false},
         "back": null},
         { "id": 2,
         "event": 2,
         "driver": 1,
-        "link": "https://tribulive.mobi/fr/prive/journey/seb",
+        "link": "https://tribulive.mobi/fr/prive/journey/seb/02",
         "route": "aller-retour",
-        "go":{"avaibleSits": 4,"totalSits": 4, "date": "27/06/2024","hour": "14:00","visible": true},
-        "back":{"avaibleSits": 4,"totalSits": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
+        "go":{"startAdress": "rue de la concorde 31000 Toulouse" "avaibleSits": 4,"totalSits": 4, "date": "27/06/2024","hour": "14:00","visible": true},
+        "back":{"destination":"rue de la concorde 31000 Toulouse" "avaibleSits": 4,"totalSits": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
 ],
 "drivers": [
     {
