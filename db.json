@@ -23,7 +23,7 @@
         "driver": 1,
         "route": "aller",
         "link": "http://localhost:3000/journey/seb/01",
-        "go":{"startAdress":"rue des amidonniers 31000 Toulouse" "avaibleSits": 3,"totalSits": 3, "date": "11/08/2024","hour": "12:00","visible": false},
+        "go":{"startAdress":"rue des amidonniers 31000 Toulouse", "avaibleSits": 3,"totalSits": 3, "date": "11/08/2024","hour": "12:00","visible": false},
         "back": null},
         { "id": 2,
         "event": 2,
