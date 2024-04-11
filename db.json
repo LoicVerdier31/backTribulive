@@ -25,6 +25,7 @@
         "route": "aller",
         "adminLink": "http://localhost:3000/adminjourney/Seb/102391",
         "publicLink": "http://localhost:3000/publicjourney/Seb/1",
+        "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.",
         "go":{"startAdress":"rue des amidonniers 31000 Toulouse", "avaibleSits": 3,"totalSits": 3, "date": "11/08/2024","hour": "12:00","visible": false},
         "back": null},
         { "id": 2,
@@ -33,6 +34,7 @@
         "driver": 1,
         "adminLink": "http://localhost:3000/adminjourney/Seb/201687",
         "publicLink": "http://localhost:3000/publicjourney/Seb/2",
+        "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.",
         "route": "aller-retour",
         "go":{"startAdress": "rue de la concorde 31000 Toulouse", "avaibleSits": 4,"totalSits": 4, "date": "27/06/2024","hour": "14:00","visible": true},
         "back":{"destination":"rue de la concorde 31000 Toulouse", "avaibleSits": 4,"totalSits": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
