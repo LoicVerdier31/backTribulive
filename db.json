@@ -26,7 +26,7 @@
         "adminLink": "http://localhost:3000/adminjourney/Seb/102391",
         "publicLink": "http://localhost:3000/publicjourney/Seb/1",
         "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.",
-        "go":{"startAdress":"rue des amidonniers 31000 Toulouse", "avaibleSits": 3,"totalSits": 3, "date": "11/08/2024","hour": "12:00","visible": false},
+        "go":{"startAdress":"rue des amidonniers 31000 Toulouse", "avaibleSeats": 3,"totalSeats": 3, "date": "11/08/2024","hour": "12:00","visible": false},
         "back": null},
         { "id": 2,
         "adminId" : 201687,
@@ -36,14 +36,14 @@
         "publicLink": "http://localhost:3000/publicjourney/Seb/2",
         "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.",
         "route": "aller-retour",
-        "go":{"startAdress": "rue de la concorde 31000 Toulouse", "avaibleSits": 4,"totalSits": 4, "date": "27/06/2024","hour": "14:00","visible": true},
-        "back":{"destination":"rue de la concorde 31000 Toulouse", "avaibleSits": 4,"totalSits": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
+        "go":{"startAdress": "rue de la concorde 31000 Toulouse", "avaibleSeats": 4,"totalSeats": 4, "date": "27/06/2024","hour": "14:00","visible": true},
+        "back":{"destination":"rue de la concorde 31000 Toulouse", "avaibleSeats": 4,"totalSeats": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
 ],
 "drivers": [
     {
         "id": 1,
         "name": "Seb",
-        "vehicle": "voiture",
+        "vehicle": "Simca 1000",
         "email": "seb@hotmail.fr",
         "tel": "0606060606",
         "journeys": [1, 2]
@@ -51,7 +51,7 @@
     {
         "id": 2,
         "name": "Jean-Heude",
-        "vehicle": "voiture",
+        "vehicle": "Renault R5 gentes alu",
         "email": "Jean-heude@hotmail.fr",
         "tel": "0606060606",
         "journeys": null
