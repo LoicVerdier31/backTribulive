@@ -37,7 +37,7 @@
         "message": "Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et dolore magna alique.",
         "route": "aller-retour",
         "go":{"startAdress": "rue de la concorde 31000 Toulouse", "avaibleSeats": 4,"totalSeats": 4, "date": "27/06/2024","hour": "14:00","visible": true},
-        "back":{"startAdress":"rue des Sabotiers 44190 Clisson" "destination":"rue de la concorde 31000 Toulouse", "avaibleSeats": 4,"totalSeats": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
+        "back":{"startAdress":"rue des Sabotiers 44190 Clisson", "destination":"rue de la concorde 31000 Toulouse", "avaibleSeats": 4,"totalSeats": 4, "date": "30/06/2024","hour": "11:00","visible": false}}
 ],
 "drivers": [
     {
